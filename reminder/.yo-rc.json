@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "reminder",
+    "packageName": "com.zbm.reminder",
+    "packageFolder": "com/zbm/reminder",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "enableTranslation": true,
+    "rememberMeKey": "92d446b1c75a4c286d7f6a5d37ed159009bcd241"
+  }
+}
